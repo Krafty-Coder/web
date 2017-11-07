@@ -11,9 +11,10 @@ body{
 }
 
 #contact{
+    justify-content: center;
     padding: 20px;
     margin:20px;
-    background-color: antiquewhite;
+    background-color: deepskyblue;
     display: flex;
 }
 
