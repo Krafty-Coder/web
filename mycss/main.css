@@ -10,6 +10,13 @@ body{
     opacity: 0.9;
 }
 
+#contact{
+    padding: 20px;
+    margin:20px;
+    background-color: antiquewhite;
+    display: flex;
+}
+
 #header{
     padding: 20px;
     text-decoration-color: firebrick;
