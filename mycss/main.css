@@ -91,6 +91,9 @@ li a:hover {
 
 #footer{
     background-color: fuchsia;
+    display: block;
+    width: 100%;
+    border-radius: 5px;
 }
 
 
