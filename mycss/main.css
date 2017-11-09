@@ -18,6 +18,15 @@ body{
     display: flex;
 }
 
+.custom{
+    backgound-color: violet;
+    padding: 15px;
+    border-radius: 17px;
+    opacity: 0.8;
+    margin: 5px;
+}
+
+
 #header{
     padding: 20px;
     text-decoration-color: firebrick;
