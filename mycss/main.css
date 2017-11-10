@@ -108,9 +108,9 @@ li a:hover {
 }
 
 #footer{
-    background-color: fuchsia;
     display: block;
     width: 100%;
+    text-align: center;
     border-radius: 5px;
 }
 
